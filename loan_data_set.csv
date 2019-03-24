@@ -1,0 +1,615 @@
+Loan_ID,Married,Dependents,Education,Self_Employed,ApplicantIncome,CoapplicantIncome,LoanAmount,Loan_Amount_Term,Credit_History,university ,interest_rate,company,credit_score_cosigner,Recent payment history
+1002,No,0,Graduate,No,4922,101039,9859,360,1,Notheastern University,4.21,Sofi,800,G
+1003,Yes,1,Graduate,No,4973,67625,3244,360,1,Notheastern University,4.47,Sofi,821,G
+1004,Yes,0,Graduate,Yes,4051,51245,5984,360,1,Havard,5.47,Sofi,831,G
+1005,Yes,0,Not Graduate,No,6821,79750,4365,360,1,Havard,5.63,Discover,696,G
+1006,No,0,Graduate,No,5414,87062,9510,360,1,Boston University,5.47,Discover,772,G
+1007,Yes,2,Graduate,Yes,4020,73278,1441,360,1,Boston University,4.21,lendingTree,736,G
+1008,Yes,0,Not Graduate,No,7087,98831,9435,360,1,Havard,4.45,Sofi,764,G
+1009,Yes,3+,Graduate,No,4016,50877,4935,360,0,Emmerson,5.63,Discover,665,G
+1010,Yes,2,Graduate,No,5910,43254,8392,360,1,UMASS,5.63,Discover,719,G
+1011,Yes,1,Graduate,No,5827,45443,2781,360,1,Emmerson,4.32,lendingTree,732,G
+1012,Yes,2,Graduate,No,4618,57912,9281,360,1,Havard,4.45,Sofi,821,G
+1013,Yes,2,Graduate,No,7385,98848,9219,360,1,Boston University,4.32,Credible,778,G
+1014,Yes,2,Graduate,No,6444,87694,9148,360,1,UMASS,4.21,lendingTree,834,G
+1015,No,0,Graduate,No,4260,74347,5523,360,1,UMASS,5.63,lendingTree,762,G
+1016,Yes,2,Graduate,No,5105,46304,6222,120,1,Havard,4.21,Prosper,836,G
+1017,No,0,Graduate,No,6151,100071,1206,360,1,Boston University,4.32,Sofi,821,G
+1018,No,1,Not Graduate,No,4732,88554,6240,240,1,Boston University,5.63,lendingClub,730,G
+1019,No,0,Graduate,No,4018,60878,1062,360,1,Northeastern University,4.47,Discover,837,G
+1020,Yes,0,Not Graduate,No,5893,100807,3594,360,1,MIT,5.63,Sofi,777,G
+1021,Yes,0,Graduate,No,7337,40859,5933,0,1,UMASS,5.21,lendingClub,691,G
+1022,Yes,0,Not Graduate,No,7660,84440,5255,360,1,Boston University,5.63,Discover,678,G
+1023,Yes,1,Graduate,No,5955,50953,1038,360,1,MIT,5.47,Prosper,784,G
+1024,Yes,0,Not Graduate,No,2600,96908,2416,360,0,Emmerson,4.21,lendingClub,674,G
+1025,Yes,2,Not Graduate,No,3365,43361,4391,360,0,Havard,5.63,Credible,665,G
+1026,Yes,1,Graduate,No,3717,72441,8540,360,0,Boston University,4.21,Prosper,710,G
+1027,Yes,0,Graduate,No,9560,71999,2080,360,1,Havard,4.32,lendingClub,842,G
+1028,Yes,0,Graduate,No,2799,73996,1766,360,1,Northeastern University,4.45,lendingClub,829,G
+1029,Yes,2,Not Graduate,No,4226,89252,2770,360,1,Emmerson,5.63,lendingTree,773,G
+1030,No,0,Not Graduate,No,1442,72165,7396,360,1,MIT,5.47,lendingClub,719,G
+1031,No,2,Graduate,No,3750,97770,2677,360,1,Havard,4.21,Sofi,661,G
+1032,Yes,1,Graduate,No,4166,70948,7086,360,1,Boston University,4.45,Discover,818,G
+1033,No,0,Graduate,No,3167,84161,5042,360,1,Emmerson,4.45,Prosper,802,G
+1034,No,1,Graduate,No,4692,77208,9127,360,1,Northeastern University,4.21,Sofi,822,G
+1035,Yes,0,Graduate,No,3500,62285,5479,360,1,Boston University,4.21,Sofi,754,G
+1036,No,3+,Graduate,No,12500,89762,4864,360,1,MIT,4.32,Credible,790,G
+1037,Yes,0,Graduate,No,2275,99614,9748,360,1,Northeastern University,4.32,Prosper,789,G
+1038,Yes,0,Graduate,No,1828,41413,5420,360,0,Emmerson,4.45,lendingTree,784,G
+1039,Yes,0,Graduate,No,3667,79734,1461,360,1,MIT,4.32,Prosper,701,G
+1040,No,0,Graduate,No,4166,68502,3049,360,1,Emmerson,4.21,Sofi,698,G
+1041,No,0,Not Graduate,No,3748,43706,5591,360,1,Boston University,4.45,Prosper,760,G
+1042,No,0,Graduate,No,3600,48102,9422,360,1,UMASS,4.32,Credible,751,G
+1043,No,0,Graduate,No,1800,81283,9288,360,1,Boston University,4.45,Sofi,750,G
+1044,Yes,0,Graduate,No,2400,94461,6067,360,1,UMASS,5.21,Prosper,726,G
+1045,Yes,0,Graduate,No,3941,100665,2170,360,1,Boston University,5.21,Credible,704,G
+1046,Yes,0,Not Graduate,No,4695,55070,9171,360,1,Havard,4.21,lendingTree,708,G
+1047,No,0,Graduate,No,3410,72345,2567,360,1,UMASS,5.47,Discover,790,G
+1048,Yes,1,Graduate,No,5649,93933,1394,360,1,UMASS,5.63,lendingClub,718,G
+1049,Yes,0,Graduate,No,5821,79986,3471,360,1,Boston University,4.45,Credible,824,G
+1050,Yes,0,Graduate,No,2645,100132,3435,360,0,UMASS,4.45,lendingTree,763,G
+1051,No,0,Graduate,No,4000,57134,9533,360,1,Havard,4.32,Discover,679,G
+1052,Yes,0,Not Graduate,No,1928,44905,5447,360,1,MIT,4.45,Sofi,747,G
+1053,No,0,Graduate,No,3086,42742,9014,360,1,UMASS,4.45,lendingTree,759,G
+1054,No,0,Graduate,No,4230,49741,4303,360,1,UMASS,5.47,Credible,704,G
+1055,Yes,2,Graduate,No,4616,75252,4851,360,1,UMASS,5.63,lendingTree,780,G
+1056,Yes,1,Graduate,No,11500,58362,5743,360,0,Havard,4.45,Discover,792,G
+1057,Yes,2,Graduate,No,2708,65652,7804,360,1,Emmerson,4.45,Discover,732,G
+1058,Yes,0,Graduate,No,2132,75972,9064,360,1,Emmerson,4.32,Credible,709,G
+1059,Yes,0,Graduate,No,3366,68552,5107,360,1,UMASS,4.21,Prosper,750,G
+1060,Yes,1,Graduate,No,8080,42946,2722,360,1,Boston University,4.45,Discover,688,G
+1061,Yes,2,Not Graduate,No,3357,60679,7339,360,1,MIT,4.32,lendingTree,729,G
+1062,Yes,0,Graduate,No,2500,41129,4299,360,1,MIT,4.21,lendingClub,720,G
+1063,Yes,3+,Graduate,No,3029,45223,1461,360,1,UMASS,4.47,lendingClub,719,G
+1064,Yes,0,Not Graduate,No,2609,82684,8976,180,0,UMASS,5.47,Discover,784,G
+1065,Yes,1,Graduate,No,4945,56388,1601,360,0,MIT,5.63,Sofi,773,G
+1066,No,0,Graduate,No,4166,59229,3089,360,0,Northeastern University,4.32,lendingTree,833,G
+1067,Yes,0,Graduate,No,5726,92141,6073,360,1,Emmerson,4.32,lendingTree,826,G
+1068,No,0,Not Graduate,No,3200,51351,5594,180,0,UMASS,4.32,Discover,824,G
+1069,Yes,1,Graduate,No,10750,82518,3136,360,1,Emmerson,4.21,lendingTree,744,G
+1070,Yes,3+,Not Graduate,No,7100,74965,2399,60,1,UMASS,4.45,lendingClub,695,G
+1071,No,0,Graduate,No,4300,43199,4026,360,0,Havard,5.47,Sofi,682,G
+1072,Yes,0,Graduate,No,3208,42805,2924,360,1,Emmerson,4.32,lendingClub,709,G
+1073,Yes,2,Not Graduate,No,1875,69316,9584,360,1,Northeastern University,4.47,Discover,722,G
+1074,No,0,Graduate,No,3500,60703,6677,300,1,Northeastern University,4.45,Credible,711,G
+1075,Yes,3+,Not Graduate,No,4755,97426,7644,300,0,Havard,5.47,Discover,805,G
+1076,Yes,3+,Graduate,No,5266,58668,6703,300,1,Emmerson,5.47,lendingTree,743,G
+1077,No,0,Graduate,No,3750,77691,3762,300,1,Emmerson,4.47,Discover,798,G
+1078,No,0,Graduate,No,3750,96333,6515,300,1,Havard,4.47,lendingTree,808,G
+1079,Yes,1,Graduate,No,1000,42375,7528,300,1,Boston University,4.32,lendingClub,706,G
+1080,Yes,3+,Graduate,No,3167,79297,6368,300,0,UMASS,4.21,Credible,764,G
+1081,Yes,3+,Not Graduate,No,3333,60418,2104,300,0,Emmerson,4.32,lendingTree,718,G
+1082,No,0,Graduate,No,3846,72956,9366,300,0,Northeastern University,4.45,lendingClub,800,G
+1083,Yes,1,Graduate,No,2395,82976,6517,300,0,Boston University,4.47,lendingClub,799,G
+1084,Yes,2,Graduate,No,1378,50715,8943,300,0,Northeastern University,4.45,lendingClub,702,G
+1085,Yes,0,Graduate,No,6000,51343,6135,300,0,Emmerson,4.47,Sofi,840,G
+1086,Yes,1,Graduate,No,3988,48136,7721,300,0,Northeastern University,4.21,Sofi,663,G
+1087,No,0,Graduate,No,2366,76584,3065,300,1,Northeastern University,5.21,Sofi,832,G
+1088,Yes,2,Not Graduate,No,3333,75514,7755,300,1,Havard,5.63,lendingTree,670,G
+1089,Yes,0,Graduate,No,2500,48259,7590,300,1,Northeastern University,5.47,Prosper,825,G
+1090,No,0,Graduate,No,8566,83938,1308,300,1,Northeastern University,4.47,lendingClub,691,G
+1091,Yes,0,Graduate,No,5695,98408,4167,300,1,UMASS,4.32,Discover,806,G
+1092,Yes,0,Graduate,No,2958,98645,4683,300,1,Emmerson,4.32,Prosper,785,G
+1093,Yes,2,Graduate,No,6250,60426,8536,300,1,Emmerson,5.47,Discover,689,G
+1094,Yes,2,Not Graduate,No,3273,79864,6133,300,1,Boston University,5.21,Prosper,838,G
+1095,No,0,Graduate,No,4133,80209,3005,300,1,MIT,4.47,Discover,718,G
+1096,No,0,Not Graduate,No,3620,60231,1371,300,1,MIT,4.47,Sofi,762,G
+1097,No,0,Graduate,No,6782,101287,7475,300,1,MIT,4.32,Discover,779,G
+1098,Yes,0,Graduate,No,2484,52478,3187,300,1,Emmerson,4.32,Sofi,850,G
+1099,Yes,0,Graduate,No,1977,52324,1443,300,1,MIT,4.47,Credible,847,G
+1100,Yes,0,Not Graduate,No,4188,60815,1391,300,1,MIT,5.47,Discover,683,G
+1101,Yes,0,Graduate,No,1759,45848,7798,300,1,Emmerson,4.32,lendingClub,817,G
+1102,Yes,2,Not Graduate,No,4288,92572,8113,300,1,MIT,5.21,lendingTree,682,G
+1103,No,0,Graduate,No,4843,53404,4773,300,1,Havard,4.21,lendingTree,765,G
+1104,Yes,0,Graduate,No,13650,88566,6285,300,1,MIT,5.63,Sofi,767,G
+1105,Yes,0,Graduate,No,4652,69303,6936,300,1,Northeastern University,5.47,Credible,764,G
+1106,No,1,Graduate,No,3816,60911,6745,300,1,MIT,5.47,Discover,662,G
+1107,Yes,1,Graduate,No,3052,96561,4446,300,1,UMASS,5.21,Credible,776,G
+1108,Yes,2,Graduate,No,11417,80968,1208,300,1,Boston University,5.63,Prosper,730,G
+1109,No,0,Not Graduate,No,7333,72075,1931,300,1,Boston University,4.21,Credible,768,G
+1110,Yes,2,Graduate,No,3800,64889,8176,300,1,UMASS,4.32,Prosper,721,G
+1111,Yes,3+,Not Graduate,No,2071,86470,2845,300,1,Northeastern University,4.21,Prosper,673,G
+1112,No,0,Graduate,No,5316,57975,5774,300,1,Emmerson,5.47,Credible,740,G
+1113,Yes,0,Graduate,No,2929,60951,2613,300,1,Emmerson,4.45,Prosper,664,G
+1114,Yes,0,Not Graduate,No,3572,91776,5229,300,1,UMASS,5.21,lendingTree,663,G
+1115,No,1,Graduate,No,7451,84428,3271,300,1,Northeastern University,4.45,Credible,826,G
+1116,No,0,Graduate,No,5050,88337,2739,300,1,MIT,4.32,Discover,826,G
+1117,Yes,1,Graduate,No,14583,101277,9315,300,1,Havard,5.63,Discover,703,G
+1118,Yes,0,Graduate,No,3167,49583,5710,300,1,Northeastern University,5.63,Discover,724,G
+1119,Yes,1,Graduate,No,2214,40338,9141,300,1,Northeastern University,5.21,Credible,722,G
+1120,Yes,0,Graduate,No,5568,77174,8738,300,1,UMASS,4.21,Sofi,751,G
+1121,No,0,Graduate,No,10408,42925,7229,300,1,Northeastern University,4.32,Prosper,748,G
+1122,Yes,1,Graduate,No,5667,51050,8951,300,1,Havard,4.47,Prosper,763,G
+1123,No,0,Graduate,No,4166,91639,6374,300,1,Boston University,4.32,lendingClub,829,G
+1124,No,0,Graduate,No,2137,83585,2019,300,1,Northeastern University,4.45,Sofi,780,G
+1125,Yes,2,Graduate,No,2957,99513,8717,300,1,Northeastern University,4.47,Prosper,690,G
+1126,Yes,0,Not Graduate,No,4300,99516,9478,300,1,Havard,4.47,Credible,728,G
+1127,No,0,Graduate,No,3692,50011,7374,300,1,UMASS,4.32,Discover,727,G
+1128,Yes,3+,Graduate,No,23803,54220,3534,300,1,Boston University,5.47,lendingClub,761,G
+1129,No,0,Graduate,No,3865,98807,6005,300,1,UMASS,5.21,Credible,728,G
+1130,Yes,1,Graduate,No,10513,50514,8959,300,1,MIT,4.32,Sofi,766,G
+1131,Yes,0,Graduate,No,6080,98451,2989,300,1,MIT,5.47,Prosper,812,G
+1132,No,0,Graduate,No,20166,84423,1044,300,1,MIT,5.47,Prosper,691,G
+1133,No,0,Graduate,No,2014,73007,8420,300,1,Emmerson,5.47,Discover,773,G
+1134,No,0,Graduate,No,2718,100832,8821,300,1,Boston University,4.21,Prosper,725,G
+1135,Yes,0,Graduate,No,3459,60283,4009,300,1,Havard,4.32,Credible,708,G
+1136,No,0,Graduate,No,4895,94443,2640,300,1,MIT,4.32,lendingClub,693,G
+1137,Yes,3+,Graduate,No,4000,41573,2859,300,1,Boston University,5.47,lendingTree,697,G
+1138,Yes,0,Graduate,No,4583,80947,6081,300,1,Emmerson,4.45,lendingTree,740,G
+1139,Yes,2,Graduate,No,3316,60420,7251,300,1,Northeastern University,5.21,Prosper,716,G
+1140,No,0,Graduate,No,14999,98380,5702,300,1,UMASS,4.32,Prosper,735,G
+1141,Yes,2,Not Graduate,No,4200,49121,7190,300,1,Boston University,5.21,Prosper,700,G
+1142,Yes,2,Graduate,No,5042,92203,6123,300,1,Boston University,5.63,lendingTree,823,G
+1143,No,0,Graduate,No,5417,72382,8529,300,1,UMASS,5.21,Sofi,717,G
+1144,No,0,Graduate,No,6950,82494,4783,300,1,UMASS,5.21,Discover,668,G
+1145,Yes,0,Graduate,No,2698,52089,4404,300,1,Northeastern University,4.47,Discover,800,G
+1146,Yes,2,Graduate,No,11757,84524,1209,300,1,Northeastern University,5.63,Sofi,785,G
+1147,Yes,0,Graduate,No,2330,85002,2529,300,1,Northeastern University,4.32,Prosper,773,G
+1148,Yes,2,Graduate,No,14866,44640,1379,300,1,Emmerson,4.45,lendingTree,784,G
+1149,Yes,1,Graduate,No,1538,85165,5919,300,1,Emmerson,5.21,Prosper,725,G
+1150,No,0,Graduate,No,10000,64817,9538,360,1,MIT,4.45,Discover,751,G
+1151,Yes,0,Graduate,No,4860,48345,7680,360,1,Northeastern University,4.21,lendingTree,779,G
+1152,No,0,Graduate,No,6277,50603,8724,360,1,Northeastern University,4.32,Prosper,718,G
+1153,Yes,0,Graduate,No,2577,93013,7947,360,1,UMASS,5.47,lendingTree,674,G
+1154,No,0,Graduate,No,9166,42911,9801,360,1,Northeastern University,5.63,lendingClub,763,G
+1155,Yes,2,Not Graduate,No,2281,52708,1492,360,1,Havard,4.32,lendingTree,679,G
+1156,No,0,Graduate,No,3254,59089,9090,360,1,Havard,4.32,Credible,741,G
+1157,Yes,3+,Graduate,No,39999,72568,1717,180,1,MIT,4.21,lendingClub,826,G
+1158,Yes,1,Graduate,No,6000,100287,2668,360,1,MIT,5.47,lendingClub,731,G
+1159,Yes,1,Graduate,No,9538,41142,4966,360,1,Boston University,5.21,Discover,669,G
+1160,No,0,Graduate,No,2980,53975,3094,360,1,Emmerson,4.47,Sofi,700,G
+1161,Yes,0,Graduate,No,4583,92176,1111,360,1,UMASS,4.45,Credible,794,G
+1162,Yes,0,Not Graduate,No,1863,50163,5994,360,1,Boston University,4.45,Sofi,705,G
+1163,Yes,0,Graduate,No,7933,93512,3372,360,1,UMASS,4.21,Discover,771,G
+1164,Yes,1,Graduate,No,3089,85028,4034,360,1,Emmerson,4.47,Discover,811,G
+1165,Yes,2,Graduate,No,4167,78922,2602,360,1,Northeastern University,5.21,Discover,733,G
+1166,Yes,0,Graduate,No,9323,88902,5019,180,1,UMASS,5.21,Credible,768,G
+1167,Yes,0,Graduate,No,3707,95131,6777,180,1,Northeastern University,5.47,lendingTree,734,G
+1168,Yes,0,Graduate,No,4583,88140,5184,180,1,Boston University,4.21,lendingTree,798,G
+1169,Yes,0,Graduate,No,2439,74958,5303,180,1,Emmerson,4.21,Sofi,711,G
+1170,No,0,Graduate,No,2237,82324,4049,180,1,UMASS,5.63,Sofi,663,G
+1171,Yes,2,Graduate,No,8000,53044,8024,180,1,Emmerson,5.47,Discover,725,G
+1172,Yes,0,Not Graduate,No,1820,56751,4531,360,1,MIT,4.21,Credible,671,G
+1173,Yes,3+,Graduate,No,51763,42857,9689,300,1,UMASS,4.45,lendingTree,766,G
+1174,Yes,3+,Not Graduate,No,3522,73755,4654,180,1,UMASS,4.47,lendingClub,664,G
+1175,Yes,0,Graduate,No,5708,70304,8547,360,1,UMASS,5.63,lendingClub,850,G
+1176,Yes,0,Not Graduate,No,4344,97823,3320,360,1,MIT,5.63,Credible,835,G
+1177,Yes,0,Graduate,No,3497,95103,7425,360,1,MIT,4.32,Discover,760,G
+1178,Yes,2,Graduate,No,2045,83431,2929,360,1,Emmerson,5.47,lendingTree,670,G
+1179,Yes,3+,Graduate,No,5516,82427,3268,360,1,Havard,4.47,Credible,848,G
+1180,Yes,1,Graduate,No,3750,84184,3096,360,1,Boston University,4.45,Discover,678,G
+1181,No,0,Not Graduate,No,2333,58329,1469,480,1,UMASS,4.32,lendingClub,790,G
+1182,Yes,1,Graduate,No,6400,91857,7765,360,1,Boston University,4.45,Credible,681,G
+1183,No,0,Graduate,No,1916,44221,4786,360,1,Havard,5.47,Discover,712,G
+1184,Yes,0,Graduate,No,4600,57508,4949,180,1,Boston University,5.21,Credible,781,G
+1185,Yes,1,Graduate,No,33846,60874,2206,360,1,Northeastern University,5.21,Credible,753,G
+1186,Yes,0,Graduate,No,3625,64550,2897,360,1,Boston University,5.47,Prosper,847,G
+1187,Yes,0,Graduate,No,39147,72420,8214,360,1,Boston University,4.21,lendingClub,821,G
+1188,Yes,1,Graduate,No,2178,65457,2043,300,1,Emmerson,5.47,lendingTree,703,G
+1189,Yes,0,Graduate,No,2383,74128,4389,360,1,Havard,5.21,Sofi,680,G
+1190,Yes,0,Graduate,No,674,77558,3837,360,1,MIT,5.63,lendingTree,792,G
+1191,Yes,0,Graduate,No,9328,81706,4856,180,1,Northeastern University,4.47,Credible,692,G
+1192,No,0,Not Graduate,No,4885,97823,5884,360,1,MIT,5.47,lendingTree,845,G
+1193,No,0,Graduate,No,12000,90275,4832,360,1,Emmerson,4.32,lendingClub,752,G
+1194,Yes,0,Not Graduate,No,6033,84174,8907,360,1,Northeastern University,4.45,Credible,666,G
+1195,No,0,Graduate,No,3858,58656,4268,360,1,UMASS,4.21,lendingClub,805,G
+1196,No,0,Graduate,No,4191,45119,5707,360,1,Boston University,5.47,Sofi,712,G
+1197,Yes,1,Graduate,No,3125,76908,2570,360,1,UMASS,4.32,Sofi,733,G
+1198,No,0,Graduate,No,8333,57833,1973,360,1,Emmerson,4.21,Credible,774,G
+1199,No,0,Not Graduate,No,1907,59210,1416,360,1,Havard,4.45,lendingTree,712,G
+1200,Yes,0,Graduate,No,3416,93171,3523,360,1,UMASS,5.21,Prosper,691,G
+1201,No,0,Graduate,No,11000,73163,6417,360,1,Emmerson,4.47,lendingTree,828,G
+1202,Yes,1,Not Graduate,No,2600,44422,4403,360,1,Emmerson,4.45,lendingTree,766,G
+1203,No,2,Graduate,No,4923,43198,5004,360,1,Northeastern University,4.45,Discover,779,G
+1204,Yes,3+,Not Graduate,No,3992,66689,4142,360,1,UMASS,4.45,Sofi,754,G
+1205,Yes,1,Not Graduate,No,3500,65045,5685,360,1,MIT,5.47,Sofi,678,G
+1206,Yes,2,Not Graduate,No,3917,66954,2062,360,1,Emmerson,4.47,lendingClub,725,G
+1207,No,0,Not Graduate,No,4408,57543,9795,360,1,UMASS,4.47,Prosper,660,G
+1208,No,0,Graduate,No,3244,100766,9353,360,1,Boston University,5.47,Sofi,794,G
+1209,No,0,Not Graduate,No,3975,51313,1810,360,1,Northeastern University,5.21,lendingClub,667,G
+1210,No,0,Graduate,No,2479,46641,1046,360,1,MIT,4.21,Discover,662,G
+1211,No,0,Graduate,No,3418,72570,6219,360,1,Emmerson,4.45,Sofi,774,G
+1212,No,0,Graduate,No,10000,88876,9661,360,1,Boston University,4.45,Credible,720,G
+1213,Yes,3+,Graduate,No,3430,58044,7592,360,1,Havard,4.32,lendingTree,830,G
+1214,Yes,1,Graduate,No,7787,57528,3985,360,1,Emmerson,4.21,Credible,790,G
+1215,Yes,3+,Not Graduate,No,5703,92269,6015,360,1,Boston University,4.32,Prosper,831,G
+1216,Yes,0,Graduate,No,3173,83721,7362,360,1,UMASS,5.21,lendingClub,706,G
+1217,Yes,3+,Not Graduate,No,3850,87781,6811,360,1,Northeastern University,5.47,Sofi,818,G
+1218,Yes,0,Graduate,No,150,59477,3097,360,1,Emmerson,4.21,Sofi,662,G
+1219,Yes,0,Graduate,No,3727,57867,5881,360,1,Emmerson,4.47,Credible,748,G
+1220,Yes,2,Graduate,No,5000,83323,6735,360,1,Havard,5.21,Discover,771,G
+1221,Yes,2,Graduate,No,4283,54338,6124,360,1,UMASS,4.32,Discover,771,G
+1222,Yes,0,Graduate,No,2221,91597,6174,360,1,Havard,4.47,Discover,845,G
+1223,Yes,2,Graduate,No,4009,53340,1803,360,1,Emmerson,5.63,Sofi,809,G
+1224,No,0,Graduate,No,2971,65256,9812,360,1,MIT,5.21,Prosper,734,G
+1225,Yes,0,Graduate,No,7578,47071,1324,360,1,MIT,5.63,Sofi,712,G
+1226,Yes,0,Graduate,No,6250,77697,6270,360,1,Havard,5.63,lendingClub,693,G
+1227,Yes,0,Graduate,No,3250,45739,1599,360,1,Emmerson,5.47,lendingTree,810,G
+1228,Yes,265,Not Graduate,No,4735,88500,3115,360,1,Boston University,5.47,Sofi,697,G
+1229,Yes,2,Graduate,No,6250,47106,8400,360,1,MIT,5.63,Sofi,741,G
+1230,Yes,254,Graduate,No,4758,53519,6980,360,1,Northeastern University,5.21,Discover,669,G
+1231,No,0,Graduate,No,6400,61312,1335,360,1,Emmerson,4.32,Credible,737,G
+1232,Yes,1,Graduate,No,2491,101424,5598,360,1,Boston University,4.21,Discover,682,G
+1233,Yes,0,Graduate,No,3716,61486,1512,360,1,Northeastern University,4.47,lendingClub,666,G
+1234,No,0,Not Graduate,No,3189,76043,1054,360,1,Emmerson,4.45,lendingTree,789,G
+1235,No,0,Graduate,No,8333,59326,7944,360,1,Northeastern University,5.47,Sofi,730,G
+1236,Yes,1,Graduate,No,3155,56340,1903,360,1,UMASS,5.21,Prosper,820,G
+1237,Yes,1,Graduate,No,5500,53423,2417,360,1,UMASS,5.63,Credible,821,G
+1238,Yes,0,Graduate,No,5746,87148,5122,360,1,Havard,4.47,lendingTree,683,G
+1239,No,0,Graduate,No,3463,69631,4276,360,1,Northeastern University,4.47,Prosper,767,G
+1240,No,1,Graduate,No,3812,77482,7829,360,1,UMASS,5.63,Sofi,740,G
+1241,Yes,1,Graduate,No,3315,81304,8492,360,1,Northeastern University,4.32,Discover,809,G
+1242,Yes,2,Graduate,No,5819,44055,5273,360,1,MIT,4.32,Prosper,748,G
+1243,Yes,1,Not Graduate,No,2510,48501,7815,180,1,Northeastern University,5.21,Sofi,672,G
+1244,No,0,Graduate,No,2965,47251,9757,60,1,UMASS,5.47,Discover,792,G
+1245,Yes,2,Graduate,No,6250,76264,7166,360,1,UMASS,4.47,Prosper,813,G
+1246,Yes,0,Not Graduate,No,3406,52413,8496,360,1,Northeastern University,4.32,Credible,715,G
+1247,No,0,Graduate,No,6050,75553,3961,180,1,Boston University,5.63,lendingTree,673,G
+1248,Yes,2,Graduate,No,9703,92370,4212,360,1,Boston University,5.21,Prosper,762,G
+1249,Yes,1,Not Graduate,No,6608,96013,2740,180,1,Boston University,5.63,Prosper,690,G
+1250,Yes,1,Graduate,No,2882,59302,9566,480,1,UMASS,5.47,Discover,686,G
+1251,Yes,0,Graduate,No,1809,53071,1322,360,1,Havard,4.47,lendingClub,837,G
+1252,Yes,0,Not Graduate,No,1668,92939,3051,360,1,MIT,5.47,lendingTree,746,G
+1253,No,2,Graduate,No,3427,92998,3622,360,1,Havard,5.21,Discover,821,G
+1254,No,0,Not Graduate,No,2583,51262,5233,360,1,MIT,4.32,Credible,699,G
+1255,Yes,1,Not Graduate,No,2661,78526,3141,180,1,Havard,4.32,lendingClub,815,G
+1256,No,0,Graduate,No,16250,73767,4471,360,1,Havard,4.21,Prosper,682,G
+1257,No,3+,Graduate,No,3083,80151,7581,360,1,Northeastern University,4.21,lendingClub,751,G
+1258,No,0,Not Graduate,No,6045,99586,3511,360,1,MIT,4.45,Credible,692,G
+1259,Yes,3+,Graduate,No,5250,46348,1037,360,1,Havard,4.21,Credible,703,G
+1260,Yes,0,Graduate,No,14683,88082,3662,360,1,Boston University,4.21,Credible,842,G
+1261,Yes,3+,Not Graduate,No,4931,47926,8063,360,1,MIT,5.21,lendingClub,695,G
+1262,Yes,1,Graduate,No,6083,90855,4020,360,1,Havard,5.63,Discover,753,G
+1263,No,0,Graduate,No,2060,82082,9044,360,1,Boston University,4.47,Prosper,746,G
+1264,No,1,Graduate,No,3481,41505,6122,36,1,UMASS,5.63,Sofi,766,G
+1265,No,0,Graduate,No,7200,43320,2422,360,1,Emmerson,4.32,Prosper,727,G
+1266,No,0,Graduate,No,5166,73749,5368,360,1,Boston University,4.45,lendingClub,847,G
+1267,No,0,Graduate,No,4095,89847,9406,360,1,Emmerson,4.32,Sofi,747,G
+1268,Yes,2,Graduate,No,4708,41943,2356,360,1,UMASS,4.45,Prosper,801,G
+1269,Yes,3+,Graduate,No,4333,67895,9786,360,1,Northeastern University,5.47,Prosper,833,G
+1270,No,0,Graduate,No,3418,41424,4715,360,1,Boston University,4.21,lendingClub,850,G
+1271,No,1,Graduate,No,2876,97037,2893,360,1,Emmerson,4.32,lendingClub,799,G
+1272,No,0,Graduate,No,3237,76590,6152,360,1,MIT,4.21,Sofi,685,G
+1273,Yes,0,Graduate,No,11146,73581,7164,360,1,Emmerson,5.63,Sofi,732,G
+1274,No,0,Graduate,No,2833,64547,8260,360,1,Emmerson,4.32,Sofi,664,G
+1275,Yes,0,Graduate,No,2620,99388,2097,360,1,Northeastern University,5.63,lendingTree,810,G
+1276,Yes,2,Graduate,No,3900,78883,5733,360,1,Boston University,5.63,lendingClub,794,G
+1277,Yes,1,Graduate,No,2750,85013,2528,360,1,Emmerson,5.21,Credible,764,G
+1278,Yes,0,Graduate,No,3993,55068,8659,360,1,Havard,5.21,Prosper,842,G
+1279,Yes,0,Graduate,No,3103,95527,6008,360,1,UMASS,5.47,lendingTree,684,G
+1280,Yes,0,Graduate,No,14583,81918,3998,360,1,MIT,4.47,Credible,797,G
+1281,Yes,0,Not Graduate,No,4100,45751,7375,360,1,Emmerson,5.63,lendingClub,717,G
+1282,No,1,Not Graduate,No,4053,67683,7914,360,1,Havard,4.47,Sofi,711,G
+1283,Yes,0,Graduate,No,3927,50742,9505,360,1,Northeastern University,4.21,Prosper,665,G
+1284,Yes,2,Graduate,No,2301,67633,7015,180,1,Emmerson,5.63,Discover,781,G
+1285,No,0,Graduate,No,1811,41146,9492,360,1,UMASS,5.63,Credible,704,G
+1286,Yes,0,Graduate,No,20667,87129,3424,360,1,MIT,4.32,Sofi,775,G
+1287,No,0,Graduate,No,3158,96174,4333,360,1,MIT,4.47,Sofi,749,G
+1288,No,0,Graduate,No,2600,87220,9336,300,1,UMASS,4.21,Discover,823,G
+1289,Yes,0,Graduate,No,3704,87111,3112,360,1,Havard,5.63,Sofi,797,G
+1290,No,0,Graduate,No,4124,72215,9578,360,1,Northeastern University,5.47,Discover,676,G
+1291,No,0,Graduate,No,9508,90541,5447,360,1,Northeastern University,5.21,lendingClub,720,G
+1292,Yes,0,Graduate,No,3075,79792,2459,360,1,UMASS,5.47,lendingClub,846,G
+1293,Yes,2,Graduate,No,4400,56531,1024,360,1,MIT,4.21,lendingTree,768,G
+1294,Yes,2,Graduate,No,3153,46714,6616,360,1,Havard,4.21,Discover,763,G
+1295,No,2,Graduate,No,5417,56246,6441,480,1,Havard,4.45,lendingClub,662,G
+1296,Yes,0,Graduate,No,2383,94518,1199,360,1,Northeastern University,4.32,Sofi,835,G
+1297,Yes,3+,Graduate,No,4416,82692,2722,360,1,MIT,4.47,lendingClub,781,G
+1298,Yes,1,Graduate,No,6875,49676,2056,360,1,Boston University,4.47,Discover,752,G
+1299,Yes,1,Graduate,No,4666,77030,5076,360,1,Havard,5.47,lendingClub,675,G
+1300,No,0,Graduate,No,5000,50400,9089,480,1,Northeastern University,4.32,lendingTree,729,G
+1301,Yes,1,Graduate,No,2014,52593,6237,360,1,Havard,5.21,Sofi,830,G
+1302,Yes,0,Not Graduate,No,1800,48705,3756,360,1,Emmerson,4.45,Discover,819,G
+1303,Yes,1,Not Graduate,No,2875,45623,3724,360,1,MIT,4.45,Credible,682,G
+1304,No,0,Graduate,No,5000,72365,8416,360,1,MIT,5.21,Prosper,760,G
+1305,Yes,1,Graduate,No,1625,70051,3155,360,1,Emmerson,4.47,lendingTree,673,G
+1306,No,0,Graduate,No,4000,100172,7645,360,1,UMASS,4.45,Discover,680,G
+1307,No,0,Not Graduate,No,2000,93814,5410,360,1,Northeastern University,4.21,Credible,688,G
+1308,No,0,Graduate,No,3762,52177,3045,360,1,Northeastern University,5.47,lendingTree,809,G
+1309,No,0,Graduate,No,2400,88956,4789,360,1,Havard,4.21,lendingClub,767,G
+1310,No,0,Graduate,No,20233,70207,8043,360,1,Havard,4.45,Sofi,661,G
+1311,Yes,2,Not Graduate,No,7667,69982,6437,360,1,Havard,4.45,lendingClub,732,G
+1312,No,0,Graduate,No,2917,56597,2334,360,1,Boston University,4.21,lendingTree,696,G
+1313,No,0,Not Graduate,No,2927,51857,6885,360,1,Emmerson,5.63,Credible,685,G
+1314,No,0,Graduate,No,2507,100711,4382,360,1,Boston University,4.45,Sofi,726,G
+1315,Yes,2,Graduate,No,5746,80282,2268,84,1,Havard,4.32,Credible,712,G
+1316,Yes,0,Graduate,No,2473,82688,7516,360,1,Boston University,5.47,lendingClub,849,G
+1317,Yes,1,Not Graduate,No,3399,59514,6910,180,1,Northeastern University,4.21,Sofi,786,G
+1318,Yes,2,Graduate,No,3717,88245,1537,360,1,MIT,5.63,Prosper,767,G
+1319,Yes,0,Graduate,No,2058,74812,8152,360,1,Boston University,5.21,Credible,832,G
+1320,No,1,Graduate,No,3541,62153,7871,360,1,Emmerson,5.47,Sofi,843,G
+1321,Yes,1,Graduate,No,10000,97414,8794,360,1,UMASS,5.47,Credible,672,G
+1322,Yes,0,Graduate,No,2400,78490,6822,360,1,UMASS,4.21,Discover,791,G
+1323,Yes,3+,Graduate,No,4342,74888,8955,360,1,Northeastern University,4.47,lendingClub,836,G
+1324,Yes,2,Not Graduate,No,3601,87103,7719,360,1,Emmerson,4.47,lendingTree,832,G
+1325,No,0,Graduate,No,3166,51297,4459,360,1,Boston University,4.47,Credible,823,G
+1326,Yes,3+,Graduate,No,15000,98790,8283,360,1,Northeastern University,5.21,Discover,720,G
+1327,Yes,1,Graduate,No,8666,76605,8565,360,1,Northeastern University,5.63,Sofi,672,G
+1328,No,0,Graduate,No,4917,56433,6112,360,1,Northeastern University,4.45,Credible,817,G
+1329,Yes,0,Graduate,No,5818,95297,8960,360,1,Emmerson,5.63,lendingClub,828,G
+1330,Yes,0,Graduate,No,4333,66622,7139,360,1,Emmerson,5.47,Discover,828,G
+1331,No,0,Graduate,No,2500,52202,5393,360,1,Havard,4.21,Sofi,826,G
+1332,No,1,Graduate,No,4384,50854,3883,360,1,Northeastern University,5.47,lendingTree,666,G
+1333,No,0,Graduate,No,2935,96248,5766,360,1,MIT,4.45,lendingClub,832,G
+1334,No,0,Graduate,No,2833,84154,5426,360,1,Northeastern University,4.32,lendingClub,799,G
+1335,Yes,0,Graduate,No,63337,43727,2475,180,1,MIT,4.47,lendingClub,705,G
+1336,Yes,0,Graduate,No,9833,98816,9034,180,1,Emmerson,5.63,Prosper,800,G
+1337,Yes,0,Graduate,No,5503,77319,1209,115,1,MIT,5.63,lendingTree,764,G
+1338,Yes,0,Graduate,No,5250,59267,3465,360,1,Boston University,4.45,lendingTree,678,G
+1339,Yes,2,Graduate,No,2500,69086,6730,360,1,Northeastern University,5.63,lendingClub,829,G
+1340,No,2,Not Graduate,No,1830,91605,3271,360,1,UMASS,4.47,Discover,729,G
+1341,No,2,Graduate,No,4160,43146,1157,360,1,MIT,5.47,Prosper,727,G
+1342,Yes,2,Not Graduate,No,2647,74343,3394,360,1,MIT,4.45,Credible,759,G
+1343,No,2,Graduate,No,2378,84426,3383,360,1,UMASS,4.45,Prosper,777,G
+1344,Yes,2,Not Graduate,No,4554,59847,7840,360,1,MIT,4.45,Sofi,712,G
+1345,Yes,2,Not Graduate,No,3173,69424,5065,360,1,Boston University,4.32,Sofi,704,G
+1346,Yes,2,Graduate,No,2583,85396,4242,360,1,UMASS,4.47,Credible,835,G
+1347,Yes,2,Graduate,No,2499,42401,2533,360,1,Emmerson,5.47,lendingTree,834,G
+1348,Yes,2,Not Graduate,No,3523,68420,7411,360,1,Boston University,4.45,Sofi,701,G
+1349,Yes,2,Not Graduate,No,3083,91296,1221,360,1,Northeastern University,5.47,lendingClub,687,G
+1350,Yes,2,Graduate,No,6333,76820,6947,360,1,MIT,5.63,Sofi,810,G
+1351,Yes,2,Graduate,No,2625,61555,8892,360,1,UMASS,4.32,Prosper,686,G
+1352,Yes,0,Graduate,No,9083,90931,3459,360,1,Boston University,5.21,lendingClub,839,G
+1353,No,0,Graduate,No,8750,95820,6038,360,1,Havard,4.45,Sofi,730,G
+1354,Yes,3+,Graduate,No,2666,60984,8046,360,1,UMASS,4.21,Discover,782,G
+1355,Yes,0,Graduate,No,5500,87855,8652,360,1,Boston University,4.21,Discover,712,G
+1356,Yes,0,Graduate,No,2423,76636,6494,360,1,UMASS,5.47,lendingTree,830,G
+1357,No,0,Graduate,No,3813,65862,4731,180,1,MIT,4.47,Sofi,785,G
+1358,Yes,2,Graduate,No,8333,50957,8392,360,1,Northeastern University,4.21,lendingTree,850,G
+1359,Yes,1,Graduate,No,3875,68269,8379,360,1,Northeastern University,4.21,Sofi,688,G
+1360,Yes,0,Not Graduate,No,3000,100912,8120,480,1,Northeastern University,5.47,Discover,839,G
+1361,Yes,3+,Graduate,No,5167,80836,3763,360,1,MIT,4.21,Discover,792,G
+1362,No,1,Graduate,No,4723,47817,6058,360,1,Havard,5.47,Prosper,848,G
+1363,Yes,2,Graduate,No,5000,57971,7014,360,1,Havard,5.47,Credible,763,G
+1364,Yes,0,Graduate,No,4750,79168,5137,360,1,Emmerson,5.47,Discover,798,G
+1365,Yes,0,Graduate,No,3013,77760,9423,300,1,MIT,5.63,Sofi,672,G
+1366,No,0,Graduate,No,6822,48441,6172,360,1,UMASS,4.47,Credible,712,G
+1367,No,0,Not Graduate,No,6216,55658,2883,360,1,MIT,4.47,Prosper,758,G
+1368,No,0,Graduate,No,2500,43340,4170,480,1,Northeastern University,5.21,Prosper,686,G
+1369,No,0,Graduate,No,5124,100008,4916,455,1,Northeastern University,5.21,Prosper,732,G
+1370,Yes,1,Graduate,No,6325,83599,3132,360,1,MIT,4.47,Prosper,801,G
+1371,Yes,0,Graduate,No,19730,66982,3551,360,1,Boston University,4.45,Sofi,786,G
+1372,No,0,Graduate,No,15759,84122,1614,360,1,Northeastern University,4.32,Sofi,772,G
+1373,Yes,2,Graduate,No,5185,85915,6961,360,1,MIT,4.47,lendingClub,799,G
+1374,Yes,2,Graduate,No,9323,50926,9704,300,1,MIT,5.47,Credible,735,G
+1375,No,1,Graduate,No,3062,62853,4188,180,1,Havard,4.45,Discover,823,G
+1376,No,0,Graduate,No,2764,97537,5118,360,1,Emmerson,4.32,Prosper,721,G
+1377,Yes,0,Graduate,No,4817,64039,5614,180,1,Emmerson,5.47,Sofi,786,G
+1378,Yes,3+,Graduate,No,8750,53602,8184,360,1,MIT,4.21,Prosper,837,G
+1379,Yes,0,Graduate,No,4310,57508,8895,360,1,Emmerson,4.47,Discover,825,G
+1380,No,0,Graduate,No,3069,79600,6461,480,1,Havard,4.45,Sofi,721,G
+1381,Yes,2,Graduate,No,5391,57134,2496,360,1,MIT,5.47,Discover,832,G
+1382,Yes,0,Graduate,No,3333,68668,7535,360,1,MIT,4.21,lendingTree,680,G
+1383,No,0,Graduate,No,5941,66064,2542,360,1,MIT,5.21,Credible,850,G
+1384,No,0,Graduate,No,6000,86701,4963,360,1,Boston University,5.47,lendingTree,674,G
+1385,No,0,Graduate,No,7167,45148,6257,360,1,Boston University,4.45,lendingTree,845,G
+1386,Yes,2,Graduate,No,4566,58980,2549,360,1,Boston University,4.47,lendingClub,841,G
+1387,No,1,Graduate,No,3667,101749,3623,180,1,Havard,5.63,lendingClub,698,G
+1388,No,0,Not Graduate,No,2346,56375,1169,360,1,MIT,5.21,Discover,757,G
+1389,Yes,0,Not Graduate,No,3010,53961,6349,360,1,Boston University,5.21,Prosper,808,G
+1390,Yes,0,Graduate,No,2333,83987,7707,360,1,Emmerson,5.21,Prosper,822,G
+1391,Yes,0,Graduate,No,5488,53580,4815,360,1,Havard,4.47,Discover,723,G
+1392,No,3+,Graduate,No,9167,72563,8205,360,1,MIT,5.21,lendingTree,750,G
+1393,Yes,3+,Graduate,No,9504,77297,4375,360,1,Havard,4.47,Sofi,735,G
+1394,Yes,0,Graduate,No,2583,57078,7578,360,1,Havard,5.63,Sofi,791,G
+1395,Yes,2,Not Graduate,No,1993,71446,6719,180,1,MIT,5.63,lendingClub,681,G
+1396,Yes,2,Graduate,No,3100,97041,6877,360,1,Boston University,5.63,Credible,704,G
+1397,Yes,2,Graduate,No,3276,69216,7238,360,1,Boston University,4.21,lendingClub,669,G
+1398,No,0,Graduate,No,3180,53627,7056,360,1,MIT,5.63,Sofi,805,G
+1399,Yes,0,Graduate,No,3033,68691,9178,360,1,Havard,4.21,Discover,837,G
+1400,No,0,Not Graduate,No,3902,93222,4809,360,1,MIT,4.32,lendingTree,672,G
+1401,No,0,Graduate,No,1500,82017,3853,360,1,Northeastern University,4.32,Credible,742,G
+1402,Yes,2,Not Graduate,No,2889,55711,9525,180,1,UMASS,4.45,Prosper,672,G
+1403,No,0,Not Graduate,No,2755,83280,8006,300,1,MIT,4.45,Sofi,836,G
+1404,No,0,Graduate,No,2500,42309,4050,360,1,Northeastern University,4.45,Prosper,772,G
+1405,No,0,Not Graduate,No,1963,49685,5693,360,1,Boston University,5.47,lendingTree,771,G
+1406,No,0,Graduate,No,7441,53259,8368,360,1,Boston University,5.47,Prosper,797,G
+1407,No,0,Graduate,No,4547,47894,3731,360,1,UMASS,5.47,Discover,674,G
+1408,Yes,0,Not Graduate,No,2167,44487,6667,360,1,UMASS,4.47,Credible,698,G
+1409,No,0,Not Graduate,No,2213,91074,7792,360,1,UMASS,5.21,Prosper,849,G
+1410,Yes,1,Graduate,No,8300,67595,9585,300,1,Boston University,4.45,lendingTree,662,G
+1411,Yes,3+,Graduate,No,81000,82788,4383,360,1,Boston University,4.32,lendingClub,739,G
+1412,No,1,Not Graduate,No,3867,71476,4911,360,1,UMASS,4.47,Discover,780,G
+1413,Yes,0,Graduate,No,6256,88170,8093,360,1,Havard,5.47,lendingClub,745,G
+1414,Yes,0,Not Graduate,No,6096,42905,2080,360,1,MIT,4.45,lendingTree,834,G
+1415,Yes,0,Not Graduate,No,2253,66578,8401,360,1,Boston University,4.32,lendingTree,773,G
+1416,Yes,0,Not Graduate,No,2149,95966,6349,360,1,Emmerson,5.21,Discover,677,G
+1417,No,0,Graduate,No,2995,64900,7793,360,1,Boston University,8.45,Credible,649,N
+1418,No,1,Graduate,No,2600,80134,9799,360,1,Havard,5.47,Sofi,679,G
+1419,Yes,2,Graduate,No,1600,81889,4844,360,1,Havard,7.47,Prosper,583,N
+1420,Yes,0,Graduate,No,1025,85774,4919,360,1,Boston University,8.45,Sofi,559,N
+1421,Yes,0,Graduate,No,3246,64903,3459,360,1,Northeastern University,7.47,lendingClub,770,N
+1422,Yes,0,Graduate,No,5829,67962,6200,360,1,MIT,4.32,Credible,748,G
+1423,No,0,Not Graduate,No,2720,48015,9191,360,1,Havard,6.23,lendingClub,682,N
+1424,Yes,0,Graduate,No,1820,69637,1026,360,1,Northeastern University,5.63,Sofi,665,G
+1425,Yes,1,Graduate,No,7250,77935,7003,360,1,Boston University,9.54,Discover,678,N
+1426,Yes,0,Graduate,No,14880,98333,7806,360,1,Emmerson,5.47,Discover,682,G
+1427,Yes,0,Graduate,No,2666,48723,6113,360,1,UMASS,5.47,lendingTree,811,G
+1428,No,1,Not Graduate,No,4606,79571,6247,360,1,MIT,4.47,lendingTree,723,G
+1429,Yes,2,Graduate,No,5935,92547,7267,360,1,MIT,7.47,Prosper,676,N
+1430,Yes,0,Graduate,No,2920,83562,8844,360,1,UMASS,6.23,Credible,597,N
+1431,No,0,Not Graduate,No,2717,84196,2527,360,1,Havard,9.54,Prosper,609,N
+1432,No,1,Graduate,No,8624,58490,9388,360,1,MIT,6.23,Sofi,598,N
+1433,No,0,Graduate,No,6500,50629,7694,360,0,UMASS,5.47,Prosper,662,G
+1434,No,0,Graduate,No,12876,41744,7530,360,1,Boston University,4.21,Discover,732,G
+1435,Yes,0,Graduate,No,2425,70546,2914,360,1,Northeastern University,6.23,Discover,552,N
+1436,No,0,Graduate,No,3750,60577,7390,360,1,Emmerson,6.23,Discover,593,N
+1437,No,0,Graduate,No,10047,42523,5584,360,1,Northeastern University,6.23,lendingClub,601,N
+1438,No,0,Graduate,No,1926,99874,7561,360,1,Boston University,5.21,lendingTree,838,G
+1439,Yes,0,Graduate,No,2213,57604,8413,360,1,MIT,5.21,Credible,707,G
+1440,No,0,Graduate,No,10416,77721,6311,360,0,UMASS,9.54,Discover,648,N
+1441,Yes,0,Not Graduate,No,7142,40232,5836,360,1,Boston University,4.32,Prosper,692,G
+1442,No,0,Graduate,No,3660,62917,2770,360,1,Emmerson,9.54,lendingTree,577,N
+1443,Yes,0,Graduate,No,7901,40836,2725,360,1,Northeastern University,4.32,Sofi,695,G
+1444,No,3+,Not Graduate,No,4707,96127,2927,360,1,Boston University,4.21,lendingTree,721,G
+1445,No,1,Graduate,No,37719,100092,9848,360,1,Havard,8.45,lendingClub,647,N
+1446,Yes,0,Graduate,No,7333,49015,4693,300,1,Emmerson,6.23,Prosper,740,N
+1447,Yes,1,Graduate,No,3466,40207,4827,360,1,Boston University,6.23,Sofi,694,N
+1448,Yes,2,Not Graduate,No,4652,40759,8817,360,0,Northeastern University,5.63,Prosper,749,G
+1449,Yes,0,Graduate,No,3539,93133,4229,360,0,Havard,9.54,lendingTree,654,N
+1450,Yes,2,Graduate,No,3340,91251,2048,360,0,UMASS,7.47,Discover,700,N
+1451,No,1,Not Graduate,No,2769,98399,2199,360,0,Boston University,4.47,Discover,802,G
+1452,Yes,2,Not Graduate,No,2309,56918,6497,360,0,UMASS,4.47,lendingTree,757,G
+1453,Yes,2,Not Graduate,No,1958,89905,5038,300,1,MIT,4.32,lendingClub,832,G
+1454,Yes,0,Graduate,No,3948,45166,4701,360,0,Havard,4.32,lendingClub,688,G
+1455,Yes,0,Graduate,No,2483,54280,1779,180,1,UMASS,4.21,lendingTree,796,G
+1456,No,0,Graduate,No,7085,78649,7214,360,0,Havard,8.45,lendingTree,750,N
+1457,Yes,2,Graduate,No,3859,40551,9821,360,0,Northeastern University,6.23,Sofi,653,N
+1458,Yes,0,Graduate,No,4301,56663,2651,360,0,UMASS,4.45,Sofi,739,G
+1459,Yes,0,Graduate,No,3708,94592,4825,360,0,UMASS,4.45,Sofi,836,G
+1460,No,2,Graduate,No,4354,44723,6674,360,1,MIT,8.45,Discover,594,N
+1461,Yes,0,Graduate,No,8334,50357,2043,360,1,UMASS,9.54,Credible,575,N
+1462,Yes,0,Graduate,No,2083,74947,3688,360,0,Havard,9.54,Prosper,748,N
+1463,Yes,3+,Graduate,No,7740,50601,3647,180,1,MIT,5.21,lendingClub,751,G
+1464,Yes,0,Graduate,No,3015,64473,6328,360,0,Emmerson,5.63,lendingClub,670,G
+1465,No,1,Not Graduate,No,5191,52909,4256,360,0,UMASS,4.32,lendingTree,802,G
+1466,No,0,Graduate,No,4166,101492,1779,360,0,Northeastern University,6.23,Discover,754,N
+1467,No,0,Graduate,No,6000,46804,3829,360,1,MIT,7.47,lendingTree,559,N
+1468,Yes,3+,Not Graduate,No,2947,75163,6318,180,1,MIT,9.54,lendingClub,607,N
+1469,Yes,0,Graduate,No,16692,89459,8261,360,1,Northeastern University,5.47,Prosper,753,G
+1470,Yes,2,Not Graduate,No,210,55784,6200,360,0,MIT,8.45,Prosper,577,N
+1471,Yes,0,Graduate,No,4333,64549,5994,360,1,MIT,4.45,Prosper,767,G
+1472,Yes,1,Graduate,No,3450,64729,5884,360,1,UMASS,4.21,lendingClub,790,G
+1473,Yes,1,Not Graduate,No,2653,88544,1388,180,1,Havard,4.21,Sofi,720,G
+1474,Yes,3+,Graduate,No,4691,96013,8809,360,0,UMASS,5.21,Credible,777,G
+1475,No,0,Graduate,No,2500,81435,4101,360,1,UMASS,8.45,lendingClub,599,N
+1476,No,2,Graduate,No,5532,76172,5885,360,1,UMASS,4.32,Credible,662,G
+1477,Yes,2,Graduate,No,16525,65162,1740,360,1,Northeastern University,4.45,lendingTree,819,G
+1478,Yes,2,Graduate,No,6700,60212,5218,300,0,Northeastern University,7.47,Sofi,667,N
+1479,Yes,2,Graduate,No,2873,70634,4591,360,0,Northeastern University,8.45,Sofi,673,N
+1480,Yes,1,Graduate,No,16667,78693,3208,360,0,Northeastern University,4.45,lendingClub,711,G
+1481,Yes,2,Graduate,No,2947,67724,2909,360,1,Northeastern University,4.45,Credible,743,G
+1482,No,0,Not Graduate,No,4350,61072,1626,360,0,Northeastern University,8.45,Credible,650,N
+1483,Yes,3+,Not Graduate,No,3095,42540,2479,360,0,Boston University,4.21,Sofi,730,G
+1484,Yes,0,Graduate,No,2083,40924,6135,360,1,Emmerson,7.47,Discover,725,N
+1485,Yes,0,Graduate,No,10833,56008,9492,360,0,Northeastern University,4.32,Prosper,748,G
+1486,Yes,2,Graduate,No,8333,62879,3919,360,0,UMASS,5.47,Prosper,804,G
+1487,Yes,1,Not Graduate,No,1958,54732,4577,360,0,MIT,8.45,Credible,695,N
+1488,No,2,Graduate,No,3547,78232,3760,360,1,Boston University,4.32,Credible,776,G
+1489,Yes,1,Graduate,No,18333,54573,5928,360,0,Havard,4.47,lendingTree,708,G
+1490,Yes,2,Graduate,No,4583,56931,5956,360,1,Northeastern University,5.63,Discover,783,G
+1491,No,0,Graduate,No,2435,47491,2145,360,1,Boston University,5.21,Prosper,753,G
+1492,No,0,Not Graduate,No,2699,67612,7688,360,0,MIT,8.45,Prosper,573,N
+1493,Yes,1,Not Graduate,No,5333,89452,8206,360,1,UMASS,7.47,lendingTree,626,N
+1494,No,0,Not Graduate,No,3691,56812,4797,360,0,Havard,8.45,lendingClub,694,N
+1495,No,0,Not Graduate,No,17263,76491,9824,360,0,MIT,5.47,Prosper,780,G
+1496,Yes,0,Graduate,No,3597,72833,2345,360,1,UMASS,9.54,Prosper,709,N
+1497,Yes,1,Graduate,No,3326,92213,8593,84,0,Emmerson,9.54,Sofi,579,N
+1498,Yes,0,Not Graduate,No,2600,51310,4602,360,1,UMASS,6.23,Sofi,565,N
+1499,Yes,0,Graduate,No,4625,101872,8180,12,1,Boston University,6.23,Credible,693,N
+1500,Yes,1,Graduate,No,2895,73846,7942,360,1,UMASS,7.47,Sofi,560,N
+1501,No,0,Graduate,No,6283,69977,1324,360,0,UMASS,8.45,lendingClub,665,N
+1502,No,0,Graduate,No,645,57151,6399,480,0,Boston University,7.47,Sofi,591,N
+1503,No,0,Graduate,No,3159,92741,8264,360,1,MIT,6.23,Sofi,711,N
+1504,Yes,2,Graduate,No,4865,43798,4085,360,1,Boston University,5.21,Discover,706,G
+1505,Yes,1,Not Graduate,No,4050,44352,4240,360,1,Havard,7.47,Credible,710,N
+1506,Yes,0,Not Graduate,No,3814,62641,5217,300,1,UMASS,4.21,lendingTree,843,G
+1507,Yes,2,Graduate,No,3510,72257,9148,360,1,Northeastern University,4.45,lendingTree,845,G
+1508,Yes,0,Graduate,No,20833,56826,5881,360,1,UMASS,4.32,Sofi,829,G
+1509,No,0,Graduate,No,3583,61118,1914,360,0,Havard,9.54,Discover,718,N
+1510,Yes,0,Graduate,No,2479,65739,9408,360,0,Emmerson,4.47,lendingClub,665,G
+1511,No,1,Graduate,No,13262,47131,7905,360,1,Boston University,7.47,lendingTree,758,N
+1512,No,0,Not Graduate,No,3598,97143,7179,360,1,Havard,4.45,Sofi,813,G
+1513,Yes,1,Graduate,No,6065,100995,2514,360,1,MIT,4.32,Sofi,847,G
+1514,Yes,2,Graduate,No,3283,47761,4155,360,1,Northeastern University,5.47,lendingClub,772,G
+1515,Yes,0,Graduate,No,2130,80205,1886,180,0,UMASS,9.54,Prosper,750,N
+1516,No,0,Graduate,No,5815,80108,1002,360,1,Havard,4.47,lendingTree,683,G
+1517,Yes,3+,Graduate,No,3466,64621,5843,360,1,UMASS,4.21,lendingTree,752,G
+1518,Yes,2,Graduate,No,2031,44056,1895,480,0,MIT,8.45,Sofi,695,N
+1519,Yes,2,Not Graduate,No,3074,87397,4741,360,0,Northeastern University,4.47,Discover,794,G
+1520,No,0,Graduate,No,4683,88836,9696,360,0,Havard,6.23,lendingTree,753,N
+1521,No,0,Not Graduate,No,3400,66177,3546,360,0,Emmerson,5.47,Credible,782,G
+1522,Yes,2,Not Graduate,No,2192,94394,2140,360,1,Boston University,4.45,Discover,726,G
+1523,No,0,Graduate,No,2500,58863,7455,360,1,Emmerson,4.32,lendingClub,696,G
+1524,Yes,3+,Graduate,No,5677,81440,2208,360,0,Havard,6.23,Discover,709,N
+1525,Yes,2,Graduate,No,7948,74953,7216,360,1,UMASS,7.47,lendingClub,723,N
+1526,No,0,Graduate,No,4680,77333,2182,360,1,Havard,4.21,lendingClub,723,G
+1527,Yes,2,Graduate,No,17500,71998,4343,360,1,Havard,6.23,Prosper,626,N
+1528,Yes,0,Graduate,No,3775,58096,3350,360,1,Boston University,6.23,lendingClub,768,N
+1529,Yes,1,Not Graduate,No,5285,93244,3152,360,1,UMASS,6.23,Sofi,640,N
+1530,No,1,Not Graduate,No,2679,97903,1731,360,0,Boston University,9.54,Sofi,702,N
+1531,No,0,Not Graduate,No,6783,96402,5341,360,0,Havard,5.21,lendingTree,846,G
+1532,Yes,0,Graduate,No,1025,78026,1567,360,1,MIT,6.23,Credible,567,N
+1533,Yes,3+,Graduate,No,4281,70401,3548,360,1,Emmerson,6.23,lendingClub,669,N
+1534,No,2,Graduate,No,3588,42720,3938,360,0,Boston University,6.23,Discover,700,N
+1535,No,1,Graduate,No,11250,45002,6526,360,1,Boston University,6.23,Credible,758,N
+1536,No,0,Not Graduate,No,18165,46006,4427,360,1,MIT,8.45,Credible,551,N
+1537,No,0,Not Graduate,No,2550,97980,5793,360,0,Northeastern University,8.45,Prosper,595,N
+1538,Yes,0,Graduate,No,6133,88893,2594,360,1,Emmerson,4.32,Credible,699,G
+1539,No,2,Graduate,No,3617,53674,6557,360,0,Boston University,4.45,Prosper,842,G
+1540,Yes,0,Not Graduate,No,2917,98034,7949,360,1,Emmerson,8.45,Sofi,583,N
+1541,Yes,3+,Graduate,No,6417,98992,6050,180,0,Northeastern University,9.54,Discover,631,N
+1542,Yes,1,Graduate,No,4608,41404,5836,180,1,Boston University,4.45,Credible,719,G
+1543,No,0,Graduate,No,2138,53999,5488,360,1,Emmerson,6.23,Discover,670,N
+1544,No,1,Graduate,No,3652,83062,6913,360,0,Boston University,7.47,Sofi,665,N
+1545,Yes,1,Not Graduate,No,2239,45719,9224,360,0,Boston University,5.47,Discover,818,G
+1546,Yes,0,Not Graduate,No,3017,84649,8092,360,0,Emmerson,4.45,Credible,846,G
+1547,Yes,0,Graduate,No,2768,61942,1024,360,0,Northeastern University,9.54,Prosper,556,N
+1548,No,0,Not Graduate,No,3358,77613,7774,36,0,Boston University,4.45,lendingTree,738,G
+1549,No,0,Graduate,No,2526,87606,4086,360,1,Boston University,6.23,Sofi,603,N
+1550,No,0,Graduate,No,5000,58874,5872,360,0,Boston University,4.32,lendingClub,721,G
+1551,Yes,0,Graduate,No,2785,94966,4838,360,1,Northeastern University,5.47,Sofi,732,G
+1552,Yes,2,Graduate,No,6633,60171,3251,360,0,MIT,9.54,lendingClub,601,N
+1553,Yes,1,Not Graduate,No,2492,59581,3032,360,0,Havard,4.47,Prosper,707,G
+1554,Yes,1,Graduate,No,3333,97690,2358,360,0,Emmerson,4.21,lendingClub,803,G
+1555,Yes,0,Not Graduate,No,2454,59323,1895,360,1,Boston University,5.21,lendingTree,835,G
+1556,Yes,0,Graduate,No,3593,57873,7180,180,0,Emmerson,4.45,Sofi,709,G
+1557,Yes,1,Graduate,No,5468,52925,1770,360,0,Emmerson,4.21,lendingClub,825,G
+1558,No,0,Graduate,No,2667,100147,6582,360,0,MIT,4.47,Prosper,676,G
+1559,Yes,3+,Graduate,No,10139,77597,8690,360,1,Boston University,6.23,Credible,680,N
+1560,Yes,0,Graduate,No,3887,101352,8715,360,0,Havard,7.47,Credible,624,N
+1561,Yes,0,Graduate,No,4180,96843,4762,360,0,Northeastern University,6.23,lendingClub,711,N
+1562,Yes,2,Not Graduate,No,3675,85984,5721,360,0,Northeastern University,4.45,Sofi,838,G
+1563,Yes,1,Graduate,No,19484,42235,9595,360,1,Boston University,7.47,Discover,719,N
+1564,Yes,0,Graduate,No,5923,65231,1760,360,1,Emmerson,9.54,Discover,722,N
+1565,No,0,Not Graduate,No,5800,40173,6769,360,1,Boston University,5.21,Prosper,797,G
+1566,Yes,2,Graduate,No,8799,68166,2991,360,1,UMASS,8.45,Discover,686,N
+1567,Yes,0,Not Graduate,No,4467,49914,3189,360,1,Emmerson,4.47,Discover,748,G
+1568,No,0,Graduate,No,3333,87212,3550,360,1,Boston University,5.47,Credible,833,G
+1569,Yes,3+,Graduate,No,3400,70894,7223,360,1,Havard,8.45,Credible,618,N
+1570,No,0,Graduate,No,2378,86372,4014,360,1,Northeastern University,9.54,Discover,682,N
+1571,Yes,0,Graduate,No,3166,64339,6720,360,0,Boston University,7.47,Credible,730,N
+1572,Yes,1,Graduate,No,3417,77529,7347,360,0,Havard,7.47,Sofi,745,N
+1573,Yes,1,Graduate,No,5116,90286,1431,360,1,Northeastern University,6.23,Discover,767,N
+1574,Yes,2,Graduate,No,16666,89179,5994,360,0,UMASS,4.45,lendingClub,797,G
+1575,Yes,2,Not Graduate,No,6125,69092,7833,480,1,Havard,8.45,Sofi,691,N
+1576,Yes,3+,Graduate,No,6406,44788,7967,360,1,Havard,4.45,Credible,689,G
+1577,Yes,2,Graduate,No,3159,87905,7974,84,1,Emmerson,7.47,Sofi,768,N
+1578,Yes,0,Graduate,No,3087,63780,1766,360,0,UMASS,4.47,Sofi,748,G
+1579,No,0,Graduate,No,3229,59146,8681,360,0,Boston University,6.23,Credible,679,N
+1580,Yes,1,Graduate,No,1782,66113,1330,360,1,MIT,9.54,Credible,605,N
+1581,No,0,Graduate,No,3182,87000,8728,360,0,Emmerson,4.45,Prosper,712,G
+1582,Yes,2,Graduate,No,6540,43459,9322,360,0,Emmerson,7.47,Sofi,611,N
+1583,No,0,Graduate,No,1836,57588,1685,360,0,Havard,8.45,lendingTree,615,N
+1584,Yes,0,Graduate,No,3166,76131,6958,360,0,MIT,6.23,Sofi,655,N
+1585,Yes,1,Graduate,No,1880,62653,1498,360,0,Emmerson,5.21,lendingClub,820,G
+1586,Yes,1,Graduate,No,2787,52465,8790,360,0,Havard,5.63,Sofi,715,G
+1587,Yes,1,Graduate,No,4283,85904,1688,84,0,Emmerson,4.32,lendingTree,725,G
+1588,Yes,0,Graduate,No,2297,68109,1765,360,1,Emmerson,4.32,lendingTree,660,G
+1589,No,0,Not Graduate,No,2165,80587,1266,360,1,Boston University,5.47,Credible,767,G
+1590,No,0,Graduate,No,4750,54052,6830,360,1,Northeastern University,8.45,Prosper,678,N
+1591,Yes,2,Graduate,No,2726,40873,5376,360,1,Northeastern University,6.23,Prosper,666,N
+1592,Yes,0,Graduate,No,3000,73114,7702,180,0,UMASS,5.47,lendingTree,750,G
+1593,Yes,2,Graduate,No,6000,94318,5987,240,0,Havard,9.54,Sofi,639,N
+1594,No,3+,Graduate,No,9357,82808,5680,360,1,MIT,4.45,lendingTree,785,G
+1595,Yes,0,Graduate,No,3859,42819,4314,180,1,MIT,5.63,Prosper,771,G
+1596,Yes,0,Graduate,No,16120,78747,9157,360,0,MIT,8.45,Prosper,704,N
+1597,No,0,Not Graduate,No,3833,53442,9523,360,1,Havard,8.45,Credible,635,N
+1598,Yes,2,Not Graduate,No,6383,67986,2994,360,0,UMASS,8.45,Credible,694,N
+1599,No,2,Graduate,No,2987,41706,3121,360,1,Boston University,5.21,lendingClub,727,G
+1600,Yes,2,Graduate,No,9963,61953,9443,360,0,Emmerson,5.21,Credible,806,G
+1601,Yes,2,Graduate,No,5780,70966,5261,360,1,Boston University,7.47,lendingTree,733,N
+1602,No,2,Graduate,No,416,95411,3885,180,0,Northeastern University,5.47,Discover,827,G
+1603,Yes,2,Not Graduate,No,2894,64508,1696,360,0,Northeastern University,5.63,Prosper,682,G
+1604,Yes,2,Graduate,No,5703,63123,7948,360,0,Emmerson,4.47,lendingClub,786,G
+1605,No,2,Graduate,No,3676,76420,9327,360,0,MIT,7.47,Sofi,638,N
+1606,Yes,2,Graduate,No,12000,90120,9207,360,1,Havard,9.54,Discover,611,N
+1607,Yes,2,Not Graduate,No,2400,96401,4789,180,0,Northeastern University,8.45,lendingClub,622,N
+1608,Yes,1,Graduate,No,3400,98320,6690,360,0,Northeastern University,5.21,Sofi,744,G
+1609,Yes,2,Not Graduate,No,3987,76434,1699,360,0,Emmerson,5.63,Prosper,754,G
+1610,Yes,0,Graduate,No,3232,42924,4435,360,0,Northeastern University,6.23,Credible,679,N
+1611,No,0,Graduate,No,2900,64524,2579,360,1,Havard,4.32,lendingClub,688,G
+1612,Yes,0,Graduate,No,4106,56341,3625,180,1,Northeastern University,5.21,lendingTree,727,G
+1613,Yes,1,Graduate,No,8072,70988,9297,360,1,Havard,4.45,Credible,661,G
+1614,Yes,2,Graduate,No,7583,40741,8272,360,0,UMASS,5.63,Credible,824,G
+1615,No,0,Graduate,No,4583,85745,3129,360,1,MIT,9.54,lendingClub,751,N
